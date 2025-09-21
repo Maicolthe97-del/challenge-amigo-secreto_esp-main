@@ -19,6 +19,8 @@ Lista visible: Los nombres ingresados aparecen en pantalla de forma dinámica.
 
 Sorteo aleatorio: Al presionar el botón "Sortear Amigo", se selecciona un nombre al azar y se muestra en la página.
 
+![Logo del proyecto](./assets/paso%202.png)
+
 Cómo usarlo
 
 Clonar este repositorio en su computadora:
