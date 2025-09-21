@@ -8,7 +8,10 @@ La aplicación permite ingresar nombres a través de un campo de texto, mostrarl
 
 Funcionalidades
 
-Agregar nombres: Los usuarios escriben un nombre en el campo de texto y lo agregan a la lista con el botón "Adicionar".
+Agregar nombres: Los usuarios escriben un nombre en el campo de texto y lo agregan a la lista con el botón "Añadir".
+
+![Logo del proyecto](./assets/paso%201.png)
+
 
 Validación: Si el campo está vacío, el sistema solicita un nombre válido.
 
